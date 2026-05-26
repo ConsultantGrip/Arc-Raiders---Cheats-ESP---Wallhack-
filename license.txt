@@ -1,0 +1,30 @@
+    ___    ____  ______   ____  ___    ________  __________  _____
+   /   |  / __ \/ ____/  / __ \/   |  /  _/ __ \/ ____/ __ \/ ___/
+  / /| | / /_/ / /      / /_/ / /| |  / // / / / __/ / /_/ /\__ \ 
+ / ___ |/ _, _/ /___   / _, _/ ___ |_/ // /_/ / /___/ _, _/___/ / 
+/_/  |_/_/ |_|\____/  /_/ |_/_/  |_/___/_____/_____/_/ |_|/____/  
+                                                                  
+
+Arc Raiders
+
+Arc Raiders — Game Companion Overlay
+
+
+About
+- Optional HUD widgets and session notes for co-op extraction matches.
+- Full build: customizable panels, OBS-safe mode, performance presets, team color themes.
+- Platform: Windows
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+arc-raiders, gaming, overlay, companion, hud, co-op, extraction, pc
